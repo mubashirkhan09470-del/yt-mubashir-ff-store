@@ -4,10 +4,11 @@
   "display": "standalone",
   "name": "YT_Mubashir FF Store",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/yt-mubashir-ff-store/",
   "short_name": "Mubashir Store",
-  "start_url": "/",
+  "start_url": "/yt-mubashir-ff-store/",
   "theme_color": "#111111",
   "description": "Free Fire ID listings. View available listings and contact the seller.",
-  "id": "https://mubashirkhan09470-del.github.io/yt-mubashir-ff-store/"
+  "id": "https://mubashirkhan09470-del.github.io/yt-mubashir-ff-store/",
+  "lang": "en"
 }

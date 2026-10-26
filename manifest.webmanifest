@@ -1,0 +1,13 @@
+{
+  "background_color": "#111111",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "YT_Mubashir FF Store",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Mubashir Store",
+  "start_url": "/",
+  "theme_color": "#111111",
+  "description": "Free Fire ID listings. View available listings and contact the seller.",
+  "id": "https://mubashirkhan09470-del.github.io/yt-mubashir-ff-store/"
+}
